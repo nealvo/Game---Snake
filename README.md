@@ -27,4 +27,4 @@ This Snake Game is a console-based game where the player controls a snake that g
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/nealvo/snake-game.git
+   git clone https://github.com/nealvo/Game---Snake/blob/main/Snake%20Game.ipynb

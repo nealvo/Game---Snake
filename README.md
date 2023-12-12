@@ -6,10 +6,7 @@ A simple implementation of the classic Snake Game using Python's turtle graphics
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
